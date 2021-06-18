@@ -1,0 +1,5 @@
+email-password.txt
+chromedriver_win32/
+__pycache__/
+.vscode/*
+.ipynb_checkpoints/*
