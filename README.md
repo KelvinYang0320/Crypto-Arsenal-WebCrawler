@@ -2,7 +2,7 @@
 Automated Tools for Crypto Arsenal 2021 NTU & NTHU Competition
 
 :warning:
-We are opposed to any improper use of this program to harm Crypto Arsenal.</br> In no event shall we be liable for any special indirect or consequential damages or any damages whatsoever resulting from this program.</br>KEEP CALM AND WRITE CODE
+We are opposed to any improper use of this program to harm Crypto Arsenal.:warning:</br> In no event shall we be liable for any special indirect or consequential damages or any damages whatsoever resulting from this program.</br>KEEP CALM AND WRITE CODE:chart_with_upwards_trend:
 
 ## Installation
 1. Install Python language bindings for Selenium WebDriver.\
